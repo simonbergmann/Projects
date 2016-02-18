@@ -1,0 +1,51 @@
+body {
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	/*color: #666666;*/
+	color: #000000;
+	margin: 0px;
+	padding: 20px 10px 0px;
+}
+
+
+.red {color: red;}
+.green {color: #99CC00;;}
+html { 
+  background: url(maple_phone.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.textfield {
+	font-size: 11px;
+	color: #333333;
+	background: #F7F7F7;
+	border: 1px solid #CCCCCC;
+	padding-left: 1px;
+}
+h1 {
+	color: #000000;
+	margin: 0px 0px 5px;
+	padding: 0px 0px 3px;
+	font: bold 24px Verdana, Arial, Helvetica, sans-serif;
+	border-bottom: 1px dashed #E6E8ED;
+}
+a {
+	color: #2D3954;
+	font-size: 11px;
+}
+a:hover {
+	color: #99CC00;
+}
+.err {
+	color: #ffffff;
+        font: bold 22px Verdana, Arial, Helvetica, sans-serif;
+}
+th {
+	font-weight: bold;
+	text-align: left;
+}
+.success {
+	color: #15ff46;
+        font: bold 22px Verdana, Arial, Helvetica, sans-serif;
+}
