@@ -1,0 +1,12 @@
+/* 
+    Created on : Oct 16, 2015, 8:43:04 AM
+    Author     : simon
+*/
+body    {background-image: url("lotto.png");
+         background-repeat: no-repeat;
+         background-size: 100px 100px;
+         background-position: top right;
+         background-color: darkcyan; }
+table   {border-color: white;}
+.red    {color: red;}
+.green  {color: limegreen;}
